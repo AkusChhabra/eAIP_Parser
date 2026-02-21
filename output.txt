@@ -1,0 +1,5976 @@
+EGTE — EXETER
+UNITED KINGDOM AIP
+AD 2.EGTE-1
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+EGTE — EXETER
+EGTE AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EGTE AD 2.3 OPERATIONAL HOURS
+EGTE AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+ARP coordinates and site at AD
+Lat: 504403N Long: 0032450W
+Midpoint of Runway 08/26
+2
+Direction and distance from city
+4 NM E by N of Exeter.
+3
+Elevation / Reference temperature / Mean Low Temperature
+102 FT / 18 °C / -
+4
+Geoid undulation at AD ELEV PSN
+169 FT
+5
+Magnetic Variation / Annual Change
+0.53°W (2022) / 0.20°E
+6
+AD Administration
+EXETER AND DEVON AIRPORT LTD
+Address
+Exeter Airport, Exeter, Devon, EX5 2BD.    
+Telephone
+01392-367433 (Airfield Ops)
+01392-354915 (Flight Briefing)
+01392-354995 (XLR Executive Jet Centres)
+01392-354957 (Ground Handling)
+01392-354917 (Training Slots)
+Telefax
+01392-364593 (ATC)
+01392-447422 (Airfield Ops)
+01392-354943 (XLR Executive Jet Centres)
+SITA
+EXTOOXH
+E-mail address
+ext.dispatch@exeter-airport.co.uk (Ground Handling)
+Jetcentre@xlrexeter.com (XLR Executive Jet Centres)
+Telex
+42648
+7
+Type of Traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Calls to ATC are recorded.
+1
+AD Administration
+Mon-Fri 0800-1800 (0700-1900), Sat 0900-1700 (0700-1800), Sun 0900-1700 
+(0800-1900).
+2
+Customs and immigration
+As per AD hours, via handling agent.
+3
+Health and sanitation
+4
+AIS Briefing Office
+As per ATS hours.
+5
+ATS Reporting Office (ARO)
+6
+MET Briefing Office
+7
+ATS
+Mon-Fri 0630-0230 (0500-0200), Sat 0600-2100 (0500-0200), Sun 0600-2200 
+(0500-0200).
+PPR is mandatory outside of published aerodrome administration hours. See 
+also AD 2.18.
+8
+Fuelling
+AVTUR JET A-1: As per AD hours.
+AVGAS 100LL: Mon-Fri 0800-1800 (0700-1800), Sat 0900-1700 (0700-1700), 
+Sun 0900-1700 (0800-1800).
+9
+Handling
+As per AD hours.
+All movements outside published aerodrome administration hours incur an 
+extra charge and are subject to availability. For bookings contact Ground 
+Handling or XLR Executive Jet Centres.
+10
+Security
+As per AD hours.
+11
+De-icing
+By arrangement via Ground Handling.
+12
+Remarks
+PPR is mandatory outside of published aerodrome administration hours. For 
+aircraft movements outside these hours contact Ground Handling or XLR 
+Executive Jet Centres.
+1
+Cargo handling facilities
+Bulk and ULD handling. Main deck hi-loader (pallet) 7000 kg, forklift.
+Limited facilities for outward cargo. Contact XLR Executive Jet Centres.
+18 May 2023
+AMDT 05/2023
+AD 2.EGTE-2
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.5 PASSENGER FACILITIES
+EGTE AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+EGTE AD 2.7 SEASONAL AVAILABILITY - CLEARING
+2
+Fuel and oil types
+AVTUR JET A-1, AVGAS 100LL
+Total Aero oil W80 and W100.
+3
+Fuelling facilities/capacity
+AVTUR JET-A1 via bowser, AVGAS 100LL via self service/served pumps (see 
+remarks). 
+4
+De-icing facilities
+Available. Contact Ground Handling.
+5
+Hangar space for visiting aircraft
+Limited. Contact XLR Executive Jet Centres.
+6
+Repair facilities for visiting aircraft
+Major for light aircraft. Minor for other aircraft.
+7
+Remarks
+AVGAS 100LL. Only aircraft with a wingspan not exceeding 15 M are permitted 
+to use the AVGAS installation, a maximum of three aircraft are permitted at any 
+one time. No AVGAS 100LL bowser is available.
+Aircraft must call ATC prior to leaving the fuelling apron. For helicopters see AD 
+2.20.
+Self service AVGAS available to Exeter based and self serice card holders 
+during aerodrome opening hours. Fuel opening hours apply to non-card holders 
+and visiting aircraft.
+1
+Hotels
+In the vicinity.
+2
+Restaurants
+Licensed Restaurant, Cafe, Bar, Conference facilities.
+3
+Transportation
+Buses, taxis and car hire.
+Nearest railway station:  Exeter St. Davids and Tiverton Parkway
+4
+Medical facilities
+Limited first aid treatment.
+5
+Bank and Post Office
+Bureau de Change. ATM in Terminal.
+6
+Tourist Office
+Tourist information is available at the Information desk.
+7
+Remarks
+Executive lounge available via XLR Executive Jet Centres.
+1
+AD category for fire fighting services
+RFF Category A6
+It is a condition of the use of the aerodrome that fire cover outside the published 
+opening hours will be provided to the level required for the size and type of 
+aircraft operating and requiring the use of a certificated aerodrome.
+RFF Category 6, RFFS provision will be provided for all scheduled movements 
+at the appropriate category up to RFF Category 7. RFF Category 8 and 9 upon 
+request.
+2
+Rescue equipment
+3x Cobra major fire appliances.
+3
+Capability for removal of disabled aircraft
+Light / medium aircraft can be removed using on site resources. Larger aircraft 
+can be removed using outside sources in conjunction with the aircraft operator. 
+Contact 01392 447433.
+4
+Remarks
+1
+Type of clearing equipment
+Mechanical, Chemical de-icing.
+2
+Clearance priorities
+Standard. See AD 1.2.2.
+3
+Remarks
+Exeter Airport's policy on clearing a contaminated runway will always be to 
+clear back to a blacktop. Braking action readings/estimates derived from the 
+use of Continuous Friction Measuring Equipment  (CFME) or any other source 
+will not be available. If the runway is open, operating procedures will 
+promulgate information in accordance with Global Reporting Format (GRF) 
+standard. Latest information from ATC 01392-354917.
+7 Aug 2025
+AMDT 08/2025
+UNITED KINGDOM AIP
+AD 2.EGTE-3
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1
+Apron surface and strength
+APRON 21
+Surface: Asphalt
+PCR 220/F/B/Y/U
+APRON 22
+Surface: Concrete
+PCR 271/R/B/X/U
+APRON 24
+Surface: Asphalt
+PCR 253/F/B/Y/U
+MAIN APRON
+Surface: Concrete and asphalt
+PCR 524/R/B/X/U
+NORTH APRON
+Surface: Asphalt
+PCR 410/R/B/X/U
+SOUTH APRON
+Surface: Asphalt
+PCR 410/R/B/X/U
+2
+Taxiway width, surface and strength
+Taxiway A: 15.1 M
+Surface: Asphalt
+PCR 409/F/B/X/U
+Taxiway APRON: 15.1 M
+Surface: Asphalt
+PCR 409/F/B/X/U
+Taxiway B: 23 M
+Surface: Concrete
+PCR 573/R/B/X/U
+Taxiway C: 15.1 M
+Surface: Asphalt
+PCR 409/F/B/X/U
+Taxiway D: 15.1 M
+Surface: Asphalt
+PCR 409/F/B/X/U
+Taxiway E: 7.5 M
+Surface: Asphalt
+PCR 220/F/B/X/U
+Taxiway F: 7.5 M
+Surface: Asphalt
+PCR 28/F/B/X/U
+Taxiway G: 17 M
+Surface: Asphalt
+PCR 409/F/B/X/U
+3
+Altimeter checkpoint location and elevation
+Main Apron 102 FT.
+4
+VOR checkpoints
+5
+INS checkpoints
+See Aircraft Parking/Docking Chart.
+19 Feb 2026
+AMDT 02/2026
+AD 2.EGTE-4
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+6
+Remarks
+Pilots are cautioned that Taxiways A and C are not suitable for use by aircraft 
+whose wheelbase exceeds 18 M and whose wheelspan is greater than 9.1 M.
+Taxiway E is suitable for aircraft whose wheelbase is less than 7.5 M and 
+wingspan less than 18 M and is available at night. Aircraft with a wingspan in 
+excess of 20 M must be under tow. All aircraft using Taxiway E must exercise 
+extreme caution due to the reduced obstacle clearances and vehicle 
+movements.
+Taxiway F is suitable for aircraft up to 7.5 M wheelbase. Foxtrot 1 is not 
+available at night. All aircraft using Taxiway F must exercise caution due to 
+vehicle and helicopter movements.
+Taxiway G is suitable for use by code C aircraft to access the engine run and 
+compass base facilities. Code D aircraft may use the taxiway by prior 
+arrangement under tow.
+The grass parking is ordinarily available for use between April and October by 
+light aircraft with a maximum wingspan of 12 M. Operators of light aircraft who 
+cannot use the grass are requested to advise Flight Briefing prior to arrival so 
+that appropriate parking arrangements can be made.
+1
+Use of aircraft stand ID signs, TWY guide lines and visual
+docking/parking guidance system of aircraft stands
+All main apron stands are parking with marshaller guidance. No aircraft must 
+enter a stand without being under positive marshaller control. If a marshaller is 
+not present advise ATC and hold on the apron taxiway.
+Into wind parking is available dependent upon the wind direction and stand 
+availability (ACFT may be required to hold for suitable parking). Requests for 
+into wind parking should be made as early as possible via Exeter Dispatch or 
+ATC in advance of arrival. Pilots are to ensure that minimum power is used 
+when taxiing away from any into wind parking stand and are to turn as soon as 
+practically possible to enter the apron taxiway.
+Pilots are cautioned, that all stands have an upward incline towards the South, 
+which may necessitate the use of increased power when taxiing on to stand on 
+Stands 4–6 and especially when operating under single engine manoeuvres.
+2
+Runway and taxiway markings and lighting
+Runway marking aid(s):
+08/26: Runway designation, threshold, centre-line, fixed distance, touchdown 
+zone and edge.
+Taxiway marking aid(s):
+Taxiway centre-line and holding positions. Enhanced taxiway centre-line 
+markings and runway ahead designators at each runway hold. The apron 
+taxilane between Taxiways Bravo and Charlie has green reflective studs along 
+its centre-line for its entire length. Taxiway Echo has green reflective centre-line 
+studs. Taxiway Golf has green centre-line and blue reflective edge studs. 
+Reflective markers on edge of Taxiway Charlie at intersection with the South 
+Apron.
+Taxiway light(s):
+Taxiways Alpha, Bravo and Charlie entrance to/exit from runway indicated by 
+alternate green/amber centre-line lights. Green centre-line lighting on Taxiways 
+Alpha, Bravo and Charlie. The apron taxilane between Taxiways Bravo and 
+Charlie has blue edge lights on northern edge. Taxiways Echo, Delta, Foxtrot 
+and Golf are not equipped with taxiway lighting.
+3
+Stop bars and runway guard lights (if any)
+Stopbars in use during darkness and Low Visibility conditions at holding points 
+Alpha 1, Bravo 1 and Charlie 1.
+Runway guard lights at Alpha 1, Bravo 1, Charlie 1, Delta 1 and Echo 1 taxiway 
+intersections.
+4
+Other runway protection measures
+18 Apr 2024
+AMDT 04/2024
+UNITED KINGDOM AIP
+AD 2.EGTE-5
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.10 AERODROME OBSTACLES
+5
+Remarks
+WDI: 504411.84N 0032422.21W (LGTD); 504348.86N 0032518.66W (LGTD).
+Obstacle marking.
+Runway ahead, enhanced taxiway centre-line and mandatory instruction 
+marking are located at all holding points.
+Retroreflective intersection departure distance signs at Bravo 1 and Charlie 1.
+When operational, blue linlaners along edges of grass taxiway. No entry signs 
+at intersection of grass parking area to grass taxiway.
+In Approach/Take-off areas
+Obstacle ID/ Designation
+Obstacle
+Type
+Obstacle
+Position
+Elevation/Height
+Obstruction 
+Lighting Type/
+Colour
+Remarks
+1
+2
+3
+4
+5
+6
+(EGTE15005) 08/APPROACH 26/
+TAKE-OFF
+MAST
+504825.82N 
+0030617.85W
+1537 FT
+773 FT
+Yes
+Red
+(EGTE15095) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504603.83N 
+0031402.21W
+828 FT
+90 FT
+No
+(EGTE15057) 08/APPROACH 26/
+TAKE-OFF
+MAST
+504543.49N 
+0031242.76W
+1027 FT
+209 FT
+Yes
+Red
+(EGTE15045) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504532.71N 
+0031404.17W
+860 FT
+85 FT
+No
+(EGTE15328) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504520.59N 
+0031406.73W
+856 FT
+74 FT
+No
+(EGTE15193) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504514.04N 
+0031941.94W
+620 FT
+89 FT
+No
+(EGTE15247) 08/APPROACH 26/
+TAKE-OFF
+HV PYLON
+504453.15N 
+0032041.71W
+412 FT
+95 FT
+No
+(EGTE15329) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504451.74N 
+0031427.47W
+876 FT
+85 FT
+No
+(EGTE15290) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504444.08N 
+0032005.69W
+596 FT
+99 FT
+No
+(EGTE16304) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504428.73N 
+0032054.05W
+374 FT
+74 FT
+No
+(EGTE15278) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504427.81N 
+0032000.61W
+568 FT
+66 FT
+No
+(EGTE16003) 08/APPROACH 26/
+TAKE-OFF
+TREE
+504139.30N 
+0033555.46W
+817 FT
+119 FT
+No
+In circling area and at aerodrome
+Obstacle ID/ Designation
+Obstacle
+Type
+Obstacle
+Position
+Elevation/Height
+Obstruction 
+Lighting Type/
+Colour
+Remarks
+1
+2
+3
+4
+5
+6
+(EGTE15535)
+TREE
+504453.53N 
+0032158.10W
+295 FT
+86 FT
+No
+(EGTE15209)
+TREE
+504450.98N 
+0032010.56W
+520 FT
+81 FT
+No
+(EGTE15200)
+TREE
+504448.72N 
+0031959.14W
+575 FT
+94 FT
+No
+(EGTE15462)
+HV PYLON
+504326.68N 
+0032203.42W
+398 FT
+105 FT
+No
+(EGTE15688)
+TREE
+504326.36N 
+0032150.83W
+370 FT
+66 FT
+No
+(EGTE15982)
+TREE
+504056.60N 
+0032214.76W
+632 FT
+56 FT
+No
+19 Feb 2026
+AMDT 02/2026
+AD 2.EGTE-6
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+EGTE AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+EGTE AD 2.13 DECLARED DISTANCES
+1
+Associated MET Office
+MET OFFICE EXETER
+2
+Hours of service
+MET Office outside hour
+H24
+3
+Office responsible for TAF preparation
+Periods of validity
+MET OFFICE EXETER
+9 hours.
+4
+Trend forecast
+Interval of issuance
+5
+Briefing/consultation provided
+Self briefing/telephone 01392-444523.
+6
+Flight documentation
+Language(s) used
+Charts abbreviated plain language text. TAFs/METARs.
+English.
+7
+Charts and other information available for briefing or
+consultation
+METFORM 214-215, 414-415. METARs, TAFs, SIGMET, GAMET. Internet 
+access.
+8
+Supplementary equipment available for providing information ATIS 119.330 MHz. Self briefing terminal in Aviation South West briefing room.
+9
+ATS units provided with information
+EXETER
+10
+Additional information (limitation of service, etc.)
+Designations RWY 
+Number
+True 
+bearing
+Dimensions of 
+RWY
+Surface of RWY/ 
+SWY/ 
+Strength
+THR co-ordinates/ 
+THR Geoid 
+undulation 
+THR elevation/
+Highest elevation of 
+TDZ of precision APP 
+RWY
+Slope of RWY/ 
+SWY
+1
+2
+3
+4
+5
+6
+7
+08
+076.11°
+2076 x 45 M
+RWY surface: Asphalt, 
+Grooved
+PCR 410/F/B/X/U
+504355.43N 
+0032540.82W
+169.0 FT
+THR 99.8 FT
+TDZ 99.1 FT
+26
+256.13°
+2076 x 45 M
+RWY surface: Asphalt, 
+Grooved
+PCR 410/F/B/X/U
+504411.24N 
+0032359.98W
+169.0 FT
+THR 102.3 FT
+TDZ 101.5 FT
+SWY 
+Dimensio
+ns
+Clearway 
+Dimensions
+Strip 
+Dimensions
+RESA 
+Dimensions, 
+Overshoot / 
+Undershoot
+Location/
+description of 
+arresting system
+OFZ
+Remarks
+8
+9
+10
+11
+12
+13
+14
+215 x 150 M
+2156 x 280 M
+RWY 08
+The downslope gradient over the first 400 M 
+of LDA is: RWY 08 - 0.73%
+581 x 150 M
+2156 x 280 M
+RWY 26
+Threshold displaced by 39 M.
+The downslope gradient over the first 400 M 
+of LDA is: RWY 26 - 0.74%
+Runway 
+designator
+TORA
+TODA
+ASDA
+LDA
+Remarks
+1
+2
+3
+4
+5
+6
+08
+2036 M
+2252 M
+2036 M
+2036 M
+26
+2076 M
+2657 M
+2076 M
+2036 M
+08
+1665 M
+1880 M
+1665 M
+Take-off from intersection of Taxiway Bravo.
+08
+1127 M
+1342 M
+1127 M
+Take-off from intersection of Taxiway Golf.
+08
+1081 M
+1296 M
+1081 M
+Take-off from intersection of Taxiway Delta.
+08
+791 M
+1007 M
+791 M
+Take-off from intersection of Taxiway Charlie.
+08
+787 M
+1002 M
+787 M
+Take-off from intersection of Taxiway Echo.
+26
+1819 M
+2400 M
+1819 M
+Take-off from intersection of Taxiway Foxtrot.
+19 Feb 2026
+AMDT 02/2026
+UNITED KINGDOM AIP
+AD 2.EGTE-7
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.14 APPROACH AND RUNWAY LIGHTING
+EGTE AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+EGTE AD 2.16 HELICOPTER LANDING AREA
+INTENTIONALLY BLANK
+26
+1264 M
+1846 M
+1264 M
+Take-off from intersection of Taxiway Echo.
+26
+1264 M
+1846 M
+1264 M
+Take-off from intersection of Taxiway Charlie.
+26
+973 M
+1460 M
+973 M
+Take-off from intersection of Taxiway Delta.
+26
+927 M
+1391 M
+927 M
+Take-off from Intersection of Taxiway Golf.
+RWY
+Approach 
+lighting
+Type/
+Length/
+Intensity
+Threshold 
+lighting
+Colour/Wing 
+bars
+VASIS/
+MEHT/
+PAPI/
+PAPI 
+Dist 
+from 
+THR
+TDZ,
+lighting
+Length
+Runway    
+Centre Line
+lighting
+Length/ 
+Spacing/
+Colour/ 
+Intensity
+Runway       
+edge        
+lighting
+Length/ 
+Spacing/
+Colour/ 
+Intensity
+Runway
+end 
+lighting
+Colour/
+Wing bars
+Stopway 
+lighting
+Length/
+Colour
+Remarks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+08
+Coded centre-
+line with two 
+crossbars.
+332 M
+Light intensity 
+high
+Green
+Light intensity 
+high
+Flush with 
+wingbars
+PAPI
+Left/3°
+60 FT
+438 M
+Colour coded 
+15 M spacing 
+HI
+HI elev bi-
+directional with 
+LI omni-
+directional 
+component
+White, with 
+last 600 M 
+each side 
+yellow caution 
+zone
+Red
+26
+Coded centre-
+line with five 
+crossbars.
+750 M
+Light intensity 
+high
+Green
+Light intensity 
+high
+Flush with 
+wingbars
+PAPI
+Left/3.5°
+58 FT
+361 M
+Colour coded 
+15 M spacing 
+HI
+HI elev bi-
+directional with 
+LI omni-
+directional 
+component
+White, with 
+last 600 M 
+each side 
+yellow caution 
+zone
+Red
+1
+ABN/IBN location, characteristics and hours of operation
+2
+LDI location and lighting
+Anemometer location and lighting
+Anemometer: 504407.70N 0032525.92W (unlit); 504413.03N 0032417.75W 
+(unlit).
+3
+TWY edge and centre line lighting
+CL: Green centre-line lighting on Taxiways Alpha, Bravo and Charlie.
+EDGE: Blue edge lighting on northern edge of the Apron taxiway and apron end 
+of Taxiway Bravo.
+4
+Secondary power supply/switch-over time
+Yes. Less than 1 second when RVR 800 M or less.
+5
+Remarks
+Apron edge lighting. Apron floodlights. Obstacle lighting.
+Runway 
+designator
+TORA
+TODA
+ASDA
+LDA
+Remarks
+1
+2
+3
+4
+5
+6
+19 Feb 2026
+AMDT 02/2026
+AD 2.EGTE-8
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+EGTE AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+EGTE AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Designation and
+lateral limits
+Vertical 
+Limits
+Airspace 
+Class
+ATS unit callsign/
+language
+Transition  
+Altitude
+Hours of 
+applicability
+Remarks
+1
+2
+3
+4
+5
+6
+7
+EXETER ATZ
+A circle, 2.5 NM radius, 
+centred at 504403N 
+0032450W on longest notified 
+runway (08/26)
+Upper limit: 
+2102 FT ALT
+Lower limit: 
+SFC
+G
+EXETER 
+APPROACH
+English
+3000 FT
+Emergency services operations 
+may occur H24, including outside 
+of the operating hours of the 
+aerodrome ATZ. Pilots are 
+recommended to make a blind 
+call on the Exeter Approach 
+Frequency 128.980 MHz when 
+transiting close to the ATZ.
+ATZ 2000 FT AAL.
+Service 
+Designation
+Callsign
+Channel/
+Frequency(MHz)
+SATVOICE 
+number(s)
+Logon 
+Address
+Hours of Operation
+Remarks
+1
+2
+3
+4
+5
+6
+7
+APP
+EXETER 
+APPROACH
+128.980
+DOC 40 NM/
+16,000 FT.
+Mon-Fri 0630-0230 (0500-
+0200), Sat 0600-2100 
+(0500-0200), Sun 0600-
+2200 (0500-0200).
+ATZ hours coincident with 
+Approach hours.
+TWR
+EXETER 
+TOWER
+119.805
+DOC 25 NM/4,000 
+FT.
+Mon-Fri 0630-0230 (0500-
+0200), Sat 0600-2100 
+(0500-0200), Sun 0600-
+2200 (0500-0200).
+RADAR
+EXETER 
+RADAR
+123.580
+DOC 40 NM/
+16,000 FT.
+Not continuously guarded, 
+ATC will advise
+Radar serves Runway 08/26.
+128.980
+Mon-Fri 0630-0230 (0500-
+0200), Sat 0600-2100 
+(0500-0200), Sun 0600-
+2200 (0500-0200).
+ATIS
+EXETER 
+INFORMATION
+119.330
+DOC 60 NM/
+20,000 FT.
+Mon-Fri 0630-0230 (0500-
+0200), Sat 0600-2100 
+(0500-0200), Sun 0600-
+2200 (0500-0200).
+OTHER
+EXETER FIRE
+121.605
+Non-ATS channel.
+Available when Fire vehicle 
+attending aircraft on the 
+ground in an emergency.
+Type of Aid
+CAT of ILS/MLS
+MAG Var/VOR 
+Declination
+Ident
+Frequency
+Hours of 
+Operation
+Position of 
+transmitting 
+antenna 
+coordinates
+Elevation of DME 
+transmitting 
+antenna
+Remarks
+1
+2
+3
+4
+5
+6
+7
+ILS/LOC
+I
+0.32°E (2027)
+IET
+109.900 MHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504412.91N 
+0032349.23W
+(RWY 08)
+19 Mar 2026
+AMDT 03/2026
+UNITED KINGDOM AIP
+AD 2.EGTE-9
+CIVIL AVIATION AUTHORITY
+ILS/GP
+IET
+333.800 MHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504353.55N 
+0032522.65W
+3° ILS Ref Datum Hgt 50 FT.
+GP flags may be experienced when 8° 
+right of centreline and well below 
+Glide Path.
+ILS/LOC
+I
+0.31°E (2027)
+IXR
+109.900 MHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504354.22N 
+0032548.56W
+(RWY 26)
+Range is restricted to 18 NM between 
+10 degree and 10 NM between 35 
+degree either side of the centre-line. 
+Pilots are advised that full scale fly-up 
+may not be observed when below the 
+Glide Path and right of the centre-line 
+for ILS Runway 26 I-XR.
+ILS/GP
+IXR
+333.800 MHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504413.27N 
+0032417.70W
+3.5° ILS Ref Datum Hgt 58 FT.
+Quality of the guidance does not 
+permit use of the Glide Path below 
+200 FT.
+Glide Path is not to be used at a range 
+of greater than 8 NM from the 
+threshold.
+Pilots landing on auto-coupled 
+approach may experience greater 
+than expected pitch up/pitch down 
+inputs between 8 NM and 5 NM.
+GP flags may be experienced when 8° 
+left of centreline or 8° right of 
+centreline and well below Glide Path.
+NDB (L)
+0.35°E (2027)
+EX
+337.000 kHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504507.75N 
+0031742.18W
+Range 25 NM.
+ILS/DME
+IXR
+36X
+109.900 MHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504413.13N 
+0032418.04W
+112 FT
+(RWY 26)
+On AD.
+DME freq paired with ILS I-ET and I-
+XR.
+Zero range is indicated at THR of 
+Runway 26.
+ILS/DME
+IET
+36X
+109.900 MHz
+Mon-Fri 
+0630-0230 
+(0500-
+0200), Sat 
+0600-2100 
+(0500-
+0200), Sun 
+0600-2200 
+(0500-
+0200).
+504353.55N 
+0032522.65W
+120 FT
+(RWY 08)
+On AD.
+DME freq paired with ILS I-ET and I-
+XR.
+Zero range is indicated at THR of 
+Runway 08.
+Type of Aid
+CAT of ILS/MLS
+MAG Var/VOR 
+Declination
+Ident
+Frequency
+Hours of 
+Operation
+Position of 
+transmitting 
+antenna 
+coordinates
+Elevation of DME 
+transmitting 
+antenna
+Remarks
+1
+2
+3
+4
+5
+6
+7
+19 Mar 2026
+AMDT 03/2026
+AD 2.EGTE-10
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.20 LOCAL AERODROME REGULATIONS
+1 
+AIRPORT REGULATIONS
+a) Fixed wing aircraft with a MTOW of 1800 KG or higher; and rotary aircraft with a MTOW of 1000 KG or higher; and all Military, State or
+Flying Display aircraft are always subject to mandatory handling. Operators are required to book in advance of arrival +44 (0)1392-
+354995, e-mail: Jetcentre@xlrexeter.com (XLR Executive Jet Centres). The exceptions to this are as follows:
+i. 
+Exeter based operators; in this instance it is the commander’s responsibility to present to the Control Authorities any non-UK
+national as well as any other person/item required to be presented in accordance with current UK regulations as appropriate.
+ii. Aircraft that are arriving for maintenance with an Exeter based facility; operators of such flights are required to identify on their flight
+plan as a remark, the facility that they are booked to visit. It is the commander’s responsibility to present to the Control Authorities
+any non-UK national as well as any other person required to be presented in accordance with current UK regulations as appropriate.
+iii. It always remains the aircraft operator’s responsibility to notify the UK Control Authorities in advance of any applicable flight in line
+with current UK regulations.
+b) Fixed wing aircraft with a MTOW of 1500 KG - 1799 KG requiring any duration parking on airport operated aprons/grass and/or Jet A1
+fuel or any aircraft with MTOW less than 1499 KG requiring Jet A1 fuel, are always subject to prior permission (PPR). Booking via flight
+plan only or not via XLR is not accepted. A marshalling/transportation charge will be levied by XLR Exeter. Operators are required to book
+in prior to arrival via XLR Executive Jet Centres +44 (0)1392-354995; email: Jetcentre@xlrexeter.com. Exclusions as per points (a), (i) &
+(ii) above apply.
+i. 
+All General Aviation aircraft that fall outside of the scope for mandatory handling are requested to book in with flight briefing in
+advance of arrival +44 (0)1392-354915, especially prior to filing a flight plan to arrive from outside the UK. The exception to this is
+as follows: Exeter based operators; in this instance it is the commander’s responsibility to present to the Control Authorities any
+non-UK national as well as any other person required to be presented in accordance with current UK regulations.
+ii. It always remains the aircraft operator’s responsibility to notify the UK Control Authorities in advance of any applicable flight in line
+with current UK regulations.
+c) All commercial air transport operators should submit details of proposed flights and schedules to Airport Co-ordination Ltd, who act as an
+agent for the airport. Requests for ad-hoc slot allocations should be made to ACL during working hours 0830-1700 (0730-1600) Monday
+to Friday by SITA: LONACXH; e-mail: lonacxh@acl-uk.org; or Tel: +44(0)161-4931850, Fax: +44(0)161-4931853, or at all other times to
+Ground Handling +44 (0)1392-354957. OCS account holders can add, change and cancel slots at any time on the online coordination
+portal: https://www.online-coordination.com/
+d) Ordinarily all persons walking on the manoeuvring and airport apron areas, including the grass and north side at Exeter Airport, must wear
+high visibility clothing at all times. The only exception to this rule is that aircraft commanders wearing high visibility clothing are permitted
+to escort their passengers who are not wearing the required clothing up to a maximum of 5 per group when not on the Main Apron. For
+maximum effect high visibility clothing should be correctly fastened. Pilots and passengers are to use appropriate walkways between
+aircraft parking areas and landside. A footpath to be used, runs from the western edge of the South Apron across Apron 24 and Taxiway
+Charlie to the access control point. Under no circumstances are flight crew or passengers to walk along any portion of Taxiway Charlie.
+It is the responsibility of the aircraft commander/handling agent to ensure the safety of passengers and crew at all times.
+e) All communications for airport owned ground handling services from aircraft inbound or on the ground should be made via 131.680 MHz
+callsign Exeter Dispatch.
+f) 
+General Aviation and non-commercial aircraft under 2 tonnes landing at Exeter in an emergency diversion situation will have the landing
+fees waived. The pilot will be required to complete details of the event for the aerodrome records.
+g) Pilots of aircraft types which require to use brake chutes on landing are to advise the AD operator in advance of the flight via Airfield
+Operations so that chute collection arrangements may be made. Pilots are requested to advise ATC of the intention to stream prior to
+landing as published in CAP413.
+h) Aircraft using the aerodrome must be equipped with a radio.
+i) 
+Parachuting and aerobatics are not permitted at the aerodrome and prior permission must be granted by the aerodrome authority for any
+parachuting and aerobatic activities within the aerodrome traffic zone.
+j) 
+Aircraft using Exeter Airport do so in accordance with the aerodromes conditions of use, a copy of which is available on application or via
+the aerodrome website.
+k) It is a requirement that every airline using Exeter Airport have local orders compatible with the aerodrome Emergency Orders. Airlines,
+General Aviation operators and Flying Clubs should also note that it is their responsibility to recover disabled aircraft and aircraft wreckage
+and have appropriate arrangements in place before commencing flying operations into the aerodrome. The aerodrome will act as the
+coordinating body throughout the recovery operation and has only very limited equipment which might be used to salvage disabled
+aircraft.
+l) 
+Banner towing by aircraft is not permitted.
+m) Smoking airside is prohibited.
+2 
+GROUND MOVEMENT
+a) All aircraft parked on the main apron are required to start under marshallers instructions.
+b) All pilots must state their location on the aerodrome when requesting start up.
+c) Pushback Procedures:
+i. 
+Pilots should give full callsign, type, parking area/apron and/or stand number.
+ii. Pilots should only request pushback when the tug and push crew are connected to the aircraft and they are actually ready to do so.
+19 Feb 2026
+AMDT 02/2026
+UNITED KINGDOM AIP
+AD 2.EGTE-11
+CIVIL AVIATION AUTHORITY
+iii. Pilots are required not to illuminate aircraft anti-collision beacons until such a time as a start-up/pushback approval has been
+received from ATC, and when parked on the main apron, positive communication with ground personnel has been achieved.
+iv. Pilots must ensure that they are in receipt of a pushback clearance from ATC on the tower frequency before allowing ground crew
+to pushback the aircraft onto a taxiway from any location.
+v. Aircraft pushback from aprons must be conducted so that the aircraft is facing the intended direction of travel as instructed by ATC.
+All code D aircraft or higher parked on a numbered stand will be pushed back onto the apron taxiway to face west and expect to
+use Taxiway Bravo.
+vi. Aircraft pushing back must at all times be in communication (voice/hand signals) with an EDAL approved marshaller. Based aircraft
+maintenance companies are included within this approval. In the event that a non-standard pushback is required by flight crew, this
+must be approved in advance of the aircraft doors being closed by Airfield Operations.
+d) During low visibility when the reported prevailing or minimum visibility, or touchdown IRVR decreases below 800 M stop bars will be
+illuminated at holding points Alpha 1, Bravo 1 and Charlie 1. Runway protection barriers shall be deployed on all other runway holding
+points to prevent unauthorised access to the runway. Any pilot wishing to depart from the North Apron during such circumstances must
+advise ATC minus 15 minutes of requesting start-up clearance, so that arrangements can be made to temporarily allow access for
+departure. When the reported prevailing or minimum visibility, or touchdown IRVR decreases below 400 M, for aircraft on the south side
+of the airfield the preferential departure runway is Runway 08 via holding point Alpha 1 (holding point Bravo 1 for code D/E aircraft). If
+Runway 26 is required (operational necessity only), aircraft on the Main Apron must be using taxiway Bravo. For aircraft on the north side
+of the airfield the preferential departure runway is Runway 26, via holding point Echo 1 or holding point Golf from the North Apron. Pilots
+are advised that increased separation and movement restrictions may also apply during such conditions.
+e) Code C or higher aircraft are not permitted to carry out 180 degree turns on Runway 08/26 between the runway thresholds. All code C
+or higher types must use the Runway 08 loop or the Runway 26 turning circle as applicable.
+f) 
+When operational, the grass taxiway from Runway 08/26 to the grass parking is available as instructed for vacating the runway only.
+Aircraft departing the grass parking will be instructed to do so via the exit onto taxiway Charlie and then to the appropriate holding point
+for the runway in use.
+3 
+CAT II/III OPERATIONS
+Not applicable
+4 
+WARNINGS
+a) Light aircraft should be aware of the elevated runway lights and PAPI for Runway 08/26.
+b) Pilots are advised that bird concentrations may be present in agricultural and construction areas on approaches to runways and in the
+vicinity of the aerodrome. Deterrent measures within the airport boundary are carried out by a Bird Control Unit and pilots may be
+requested by ATC to delay departure or arrival if bird concentrations within the BCU’s area of control prove difficult to disperse.
+c) Pilots are warned, when landing on Runway 26, of the possibility of Terrain/Building induced turbulence and wind shear effects.
+d) Gliding, parachuting, light aircraft and microlights operate at Dunkeswell and North Hill aerodromes (10 NM NE EGTE).
+e) Aircraft in the Dunkeswell ATZ may operate less than 5 NM north of the Final Approach Track to Runway 26. Deconfliction minima against
+this uncoordinated traffic cannot be guaranteed. Pilots should expect late warning of aircraft leaving the Dunkeswell ATZ and deconfliction
+minima may not be achieved.
+f) 
+To ensure safe operations and obstacle clearance, aircraft nose wheels are to always be aligned with taxiway centre-line whilst taxiing
+or under tow. Where the taxiway width is less than the paved surface width, the portions outside the double yellow taxi side stripe markings
+are not maintained and shall not be used by aircraft. Pilots are cautioned that the width of Taxiway Alpha and Charlie varies from 15.1 M
+to 18.5 M and does not in all cases meet outer main wheel gear span criteria of DH4 aircraft and are to ensure that the aircraft nose
+wheels are always aligned with taxiway centre-line.
+g) Pilots are warned that unauthorised ground based laser lights have been directed towards aircraft in the vicinity of the aerodrome. All
+incidents should be reported immediately via the Tower to the Airport Authority.
+h) Pilots are cautioned of increased helicopter activity between Echo 1 and Foxtrot 1 and should remain vigilant at all times. ATC may hold
+taxiing aircraft on Echo and Foxtrot to allow priority helicopter departures.
+i) 
+Pilots are warned of helicopter activity in and out of the RD and E Hospital situated on the final approach to Runway 08 at 3.25 NM from
+touchdown.
+j) 
+Pilots are advised that grass areas adjacent to paved aprons are not to be used for aircraft manoeuvring or parking.
+k) Pilots are advised that the drains located along the eastern edge of the South Apron are not weight bearing and all manoeuvring/parking
+must be to the west of the double yellow taxi side stripe markings at all times.
+l) 
+Any instructed turn on the runway is to be made with caution and in between the side stripe markings. Pilots are cautioned that elevated
+runway edge lighting is installed on the pavement edge outside of the side stripe.
+5 
+HELICOPTER OPERATIONS
+a) A designated area for light helicopters requiring AVGAS 100LL is available at the existing installation. Helicopters will only be permitted
+to land in this area during daylight hours and provided that there are no other aircraft using the pumps. ATC will designate an area for
+helicopters to hold if the pumps are in use.
+b) Helicopters must approach the AVGAS installation from the northeast. When landing, helicopters must align with the ‘H’ facing west.
+Before refuelling commences, pilots must ensure that rotor blades are aligned with the fuselage, or so positioned as to not infringe taxiway
+C. Caution must be used at all times when manoeuvring in this area.
+c) No rotors running refuels may take place on the airport from the airport authorities fuel bowsers, with the exception of those aircraft on
+SAR/Ambulance tasks, in accordance with the airports operational instructions available from the refuelling manager, Tel: 01392-354931.
+d) Helicopters inbound/outbound are to avoid over flying airport buildings whenever possible.
+e) Helicopters advised to park on an apron south of Runway 08/26 or on parking areas accessed via Taxiway Golf, will be directed by ATC
+to approach via the main runway, then to ground/air taxi to the allocated apron area and park under marshaller’s instructions. Upon
+departure, helicopters parked on these apron areas will ground/air taxi from the allocated stand as directed by ATC to Runway 08/26 prior
+to lift off. It is required that helicopters with wheels will at all times ground taxi from/to the runway and pilots are to advise ATC prior to
+19 Feb 2026
+AMDT 02/2026
+AD 2.EGTE-12
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+landing/or upon start up if this is not achievable due to aircraft specifications. Helicopters with a MTOW of less than 5000 KG may at times
+be advised to approach from the northern airfield boundary and land directly on the North Apron under marshaller’s instruction.
+6 
+USE OF RUNWAYS
+a) When the surface wind is calm or light and variable, Runway 26 is the preferential runway. When Runway 08 is the runway-in-use, pilots
+should note that other aircraft may require Runway 26 for departure, due to performance limitations.
+b) Pilots of light aircraft must advise ATC if a backtrack for departure from a taxiway intersection is required.
+c) When the reported met visibility decreases below 400 M, for aircraft on the south side of the airfield the preferential departure Runway is
+08 via holding point Alpha 1 (holding point Bravo 1 for code D/E aircraft). If Runway 26 is required (operational necessity only), aircraft
+on the main apron must be using taxiway Bravo. For aircraft on the north side of the airfield the preferential departure Runway is 26, via
+holding point Echo 1 or holding point Golf from the North Apron. Pilots are advised that increased separation and movement restrictions
+may also apply during such conditions.
+7 
+TRAINING
+a) Aircraft using the aerodrome for instrument training and circuits must book slots by telephone to ATC (01392-354917). CCT height 1000
+FT AAL, variation on request to ATC.
+b) Training by jet aircraft over 5700 KG may be denied after 2000 (1900).
+c) Training by any aircraft after 2200 (2100) may be denied.
+d) When Runway 08 is in use, training aircraft are expected to hold at TOMPO (504243N 0033319W). Holding at NDB 'EX' may be available
+for training aircraft but approaches from 'EX' may be subject to delay.
+EGTE AD 2.21 NOISE ABATEMENT PROCEDURES
+Aircraft using the aerodrome will be required to conform to the following procedures notwithstanding that these procedures may be departed
+from to the extent necessary for avoiding immediate danger.
+a) Every operator of aircraft using the aerodrome shall ensure at all times that aircraft are operated in a manner calculated to cause the least
+disturbance practicable in areas surrounding the airport, particularly the City of Exeter.
+b) Unless otherwise required in the appropriate instrument approach procedure or otherwise instructed by ATC, inbound aircraft shall
+maintain as high an altitude as practicable and shall maintain at least 1000 ft aal, until commencing descent on final approach. An aircraft
+approaching without assistance from radar shall follow a descent path no lower than the normal approach path indicated by the PAPIs.
+c) Unless otherwise instructed by ATC, all jet aircraft and propeller aircraft whose MTWA exceeds 5700 kg shall after take-off from:
+i. 
+Runway 26 climb on runway heading at the maximum rate compatible with safety to 1000 ft aal and then turn as soon as possible
+to avoid the City of Exeter.
+ii. Runway 08 climb at the maximum rate compatible with safety to 1500 ft aal before turning.
+d) For visual approaches, or following a visual circuit, to Runway 26 the following limitations apply:
+i. 
+Jet aircraft shall not join the final approach at a height of less then 1500 ft aal;
+ii. Propeller driven aircraft whose MTWA exceeds 5700 kg shall not join the final approach at a height of less than 1000 ft aal.
+Aircraft flying a visual approach should intercept the final approach track at a level not less than that equivalent to a 3.5° glide path at the
+intercept range. Final approach should be flown at not less than a nominal 3.5° glide path.
+e) Auxiliary Power Units (APU).
+APUs may only be operated for a maximum of one hour, or started thirty minutes prior to departure and not without the permission of the 
+aerodrome operator. Aircraft with rear ventral airstairs must shut down APUs immediately after arriving on stand. Ground Power Units 
+(GPU) will be supplied where required.
+f) 
+Light aircraft should avoid overflying the villages of Clyst Honiton, Broadclyst, Whimple, West Hill, Aylesbeare and Farringdon whenever
+possible or as otherwise directed by ATC.
+g) Continuous Descent Approaches
+i. 
+Jet and turbo-prop aircraft are expected to apply continuous descent, low power, low drag approach techniques whenever possible.
+ii. Subject to ATC instructions, inbound aircraft are to maintain as high an altitude as practical and adopt a low power, low drag,
+continuous descent approach profile. ATC will provide estimated track distance to touchdown to allow pilots to descend at a rate
+they judge best suited to achieve continuous descent without using more power or drag than necessary. The object will be to join
+the glidepath at the appropriate height for the distance without level flight.
+iii. ATC will provide range checks. Pilots who require additional track mileage to facilitate a successful CDA should inform ATC as soon
+as possible
+19 Feb 2026
+AMDT 02/2026
+UNITED KINGDOM AIP
+AD 2.EGTE-13
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.22 FLIGHT PROCEDURES
+1 
+INSTRUMENT APPROACH PROCEDURES
+a) Instrument Approach Procedures (IAP) for this aerodrome are established outside controlled airspace. See ENR 1.5.
+2 
+VISUAL REFERENCE POINTS (VRP)
+a) Details of VRPs are available in the consolidated 'Visual Reference Points List' published on the 'Digital Dataset' page of the NATS AIS
+website, www.nats.aero/ais.
+3 
+PROCEDURE FOR INBOUND FLIGHTS
+a) IFR Arrivals and Overflights
+i. 
+Arrivals are to establish communications with ATC at least 10 minutes prior to ETA at NDB(L) EX, whenever possible, stating what
+type of service they require (deconfliction, traffic or basic, as appropriate).
+b) VFR Arrivals and Overflights
+i. 
+Joining, or overflight instructions, may be issued with a level restriction e.g. 'Not below 1500 FT', in order to facilitate integration into
+the circuit or to assist in deconflicting from other traffic. Such a restriction does not absolve pilots from any requirement they may
+have to remain in VMC at all times and pilots must advise ATC if unable to comply with the level restriction.
+ii. Arriving or overflying VFR flights should avoid the instrument approach let-down areas and the departure climb outs at all times,
+unless ATC have indicated there is no traffic to affect. ATC may suggest a route or track to assist pilots in this, which may also be
+combined with a level restriction.
+iii. Overflying VFR aircraft are advised that the area to the immediate east and west of Exeter Airport is where holding patterns are
+established. They are frequently used by aircraft flying according to IFR.
+4 
+PROCEDURES FOR OUTBOUND AIRCRAFT
+a) VFR Departures
+i. 
+VFR departures may be requested to fly a route to assist in deconflicting traffic and aid circuit integration; e.g. 'Depart to the south
+east, due instrument traffic'. Such restrictions will be removed by ATC as soon as is practicable, and do not absolve pilots from any
+requirement they may have to remain in VMC at all times. Pilots must advise ATC if unable to comply with a level or routing request.
+ii. Aircraft on local flights (departing and landing back at Exeter) should specify either the cardinal or intermediate track they wish to
+fly on departure on either book-out or first contact with ATC (i.e. ‘local to north-west…’).
+b) IFR Departures
+i. 
+IFR departures should inform ATC prior to departure which ATC service they will be requesting on departure, i.e. deconfliction, traffic
+or basic, as appropriate for their requirements.
+ii. IFR departure clearances are available before start and pushback.
+iii. Flight plans filed direct to SAM may be subject to a route change via GIBSO.
+EGTE AD 2.23 ADDITIONAL INFORMATION
+Not applicable
+EGTE AD 2.24 CHARTS RELATED TO AN AERODROME
+AERODROME CHART - ICAO
+AD 2.EGTE-2-1
+AIRCRAFT PARKING/DOCKING CHART - ICAO
+AD 2.EGTE-2-2
+ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO
+AD 2.EGTE-5-1
+INSTRUMENT APPROACH CHART ILS/DME/NDB(L) RWY 08 - ICAO
+AD 2.EGTE-8-1
+INSTRUMENT APPROACH CHART LOC/DME/NDB(L) RWY 08 - ICAO
+AD 2.EGTE-8-2
+INSTRUMENT APPROACH CHART SRA RTR 2 NM RWY 08 - ICAO
+19 Feb 2026
+AMDT 02/2026
+AD 2.EGTE-14
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+EGTE AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+Not applicable
+AD 2.EGTE-8-3
+INSTRUMENT APPROACH CHART RNP RWY 08 - ICAO
+AD 2.EGTE-8-4
+INSTRUMENT APPROACH CHART NDB(L)/DME RWY 08 - ICAO
+AD 2.EGTE-8-5
+INSTRUMENT APPROACH CHART DIRECT ARRIVALS RWY 08 - ICAO
+AD 2.EGTE-8-6
+INSTRUMENT APPROACH CHART ILS/DME/NDB(L) RWY 26 - ICAO
+AD 2.EGTE-8-7
+INSTRUMENT APPROACH CHART LOC/DME/NDB(L) RWY 26 - ICAO
+AD 2.EGTE-8-8
+INSTRUMENT APPROACH CHART SRA RTR 2 NM RWY 26 - ICAO
+AD 2.EGTE-8-9
+INSTRUMENT APPROACH CHART RNP RWY 26 - ICAO
+AD 2.EGTE-8-10
+INSTRUMENT APPROACH CHART NDB(L)/DME RWY 26 - ICAO
+AD 2.EGTE-8-11
+INSTRUMENT APPROACH CHART NDB(L) RWY 26 - ICAO
+AD 2.EGTE-8-12
+INSTRUMENT APPROACH PROCEDURE CODING TABLES - RNP RWY 08
+AD 2.EGTE-8-13
+INSTRUMENT APPROACH PROCEDURE CODING TABLES - RNP RWY 26
+AD 2.EGTE-8-14
+19 Feb 2026
+AMDT 02/2026
+UNITED KINGDOM AIP
+AD 2.EGTE-2-1
+CIVIL AVIATION AUTHORITY
+ 
+ 
+D
+is
+u
+s
+ed
+ 
+ 
+08
+26
+N
+Annual Rate
+of Change 0.20°E
+VAR 0.5°W - 2022
+077°M
+257°M
+Compass
+Swing Base
+Twy E
+Fire
+Training
+Ground
+Hangars
+NPAS
+Anemometer
+Anemometer
+Disused
+Disused
+Car
+Parks
+Car
+Parks
+Twy B
+Radar
+Customs
+Main
+Apron
+North
+Apron
+South
+Apron
+Storage
+Tanks
+(AVTUR)
+Light Acft/Hel
+Refuelling and
+Storage (AVGAS)
+Grass
+Parking
+Access
+Fire
+Station
+Gate
+C
+ILS
+GP
+ILS
+GP
+Twy
+Hangar
+21
+Hangar
+68
+Hangar
+10
+Hangar
+3
+Hangar
+Iscavia
+Engineering
+Hangar
+52
+Hangar 52
+Apron
+Apron
+22
+Apron
+21
+Twy C
+Engine
+Run Area
+Blast
+Screen
+Twy C
+Twy G
+Twy D
+Hangars
+1 & 2
+Grass
+Parking
+Apron
+24
+Control
+Tower
+Twy A
+Twy F
+PAPI (3.5°)
+MEHT 58
+PAPI (3°)
+MEHT 60
+2076m x 45m
+C1
+F2
+F3
+A1
+E1
+D1
+B1
+F1
+G
+100
+0
+100
+200
+300 m
+200
+0
+200
+400
+600
+800 1000 ft
+I-ET 109.90D
+IET
+504412.91N 0032349.23W
+EXETER
+I-ET
+109.90D
+(Ch 36X)
+ IXR
+504353.55N 0032522.65W
+120'
+EXETER
+I-XR
+109.90D
+(Ch 36X)
+ IET
+504413.13N 0032418.04W
+112'
+I-XR 109.90D
+IXR
+504354.22N 0032548.56W
+Rwy 08 Thr Elev 100
+504355.43N 0032540.82W
+GUND Elevation 169
+(Highest Elev in TDZ)
+Rwy 26 Thr Elev 102
+504411.24N 0032359.98W
+GUND Elevation 169
+(Highest Elev in TDZ)
+BEARINGS ARE MAGNETIC
+ELEVATIONS AND HEIGHTS ARE IN FEET
+GUND (Geoid Undulation) =
+The height of the Geoid (MSL) above the
+Reference Elipsoid (WGS 84) at the stated position.
+ELEVATIONS IN FEET AMSL  
+ 102
+HEIGHTS IN FEET ABOVE AD 
+RUNWAY/TAXIWAY/APRON PHYSICAL CHARACTERISTICS
+RWY / TWY / APRON 
+SURFACE 
+PCN 
+PCR
+RWY 08/26 
+Grooved Asphalt 
+- 
+410/F/B/X/U
+TWY A, C, D, G 
+Asphalt 
+- 
+409/F/B/X/U
+TWY B 
+Concrete 
+- 
+573/R/B/X/U
+TWY E 
+Asphalt 
+- 
+220/F/B/X/U
+TWY F 
+Asphalt 
+- 
+28/F/B/X/U
+Apron (All)
+LIGHTING
+APCH 08  
+HI coded C/L 332 m with 2 bars.
+APCH 26 
+HI coded C/L 750 m with 5 bars.
+THR 08/26 
+HI flush green with wingbars.
+RWY 08/26 
+HI colour coded C/L. HI elev bi-d with LI omni-d component.
+ 
+White edge (last 600 m each side yellow caution zone).
+ 
+End lights red.
+TWY 
+Green C/L on TWY A, B & C. 
+ 
+Blue edge on northern edge of the Apron taxiway and Apron
+ 
+end of taxiway Bravo.
+ 
+Stopbars at holds A1, B1, C1.
+ 
+Guard lights at holds A1, B1, C1, D1 & E1.
+See AD 2-EGTE-2-2
+AERO INFO DATE 16 DEC 25
+AD 2-EGTE-2-1
+EGTE
+EXETER
+AD ELEV 102FT
+ARP 504403N 0032450W
+CHART - ICAO
+AERODROME
+COM
+ATIS 
+119.330 
+EXETER INFO
+TWR 
+119.805 
+EXETER TOWER
+ 
+121.605 
+EXETER FIRE
+CHANGE (3/26): EXETER FIRE FREQUENCY ADDED.
+19 Mar 2026
+AMDT 03/2026
+AD 2.EGTE-2-2
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+Disused
+N
+Annual Rate
+of Change 0.20°E
+VAR 0.5°W - 2022
+Light Acft/Hel Refuelling
+and Storage (AVGAS)
+Light Acft/Hel Refuelling
+and Storage (AVGAS)
+Twy C
+Apron  Taxiway
+Twy C
+Twy F
+Twy B
+Twy G
+Twy D
+Twy A
+Main
+Apron
+South
+Apron
+Engine
+Run Area
+Compass
+Swing Facility
+3
+2
+2A
+4
+6
+7
+8
+9
+11
+5
+Terminal
+Building
+Car
+Park
+Gate
+C
+10 10L
+RWY 08/26
+Apron
+24
+North
+Apron
+Grass
+Parking
+Storage
+Tanks
+(AVTUR)
+Grass
+Parking
+Access
+Fire
+Station
+Hangars
+1 & 2
+Control
+Tower
+Apron
+22
+Apron
+21
+Hangar
+21
+Hangar
+21
+Hangar
+10
+Hangar
+10
+Hangar
+3
+Hangar
+3
+Hangar
+68
+Hangar
+68
+Capital
+Hangar
+NPAS
+B1
+F2
+F3
+G
+A1
+E1
+D1
+C1
+50
+0
+50
+100
+150 m
+100
+0
+100
+200
+300
+400
+500 ft
+STAND 
+COORDINATES
+ 
+7 
+504350.31N 0032507.16W
+ 
+8 
+504349.69N 0032508.95W
+ 
+9 
+504349.42N 0032511.62W
+ 10 
+504348.93N 0032513.49W
+ 10L 
+504349.12N 0032512.46W
+ 
+11 
+504349.43N 0032511.26W
+STAND 
+COORDINATES
+ 
+2 
+504354.04N 0032500.45W
+ 2A 
+504354.34N 0032500.28W
+ 
+3 
+504353.33N 0032501.92W
+ 
+4 
+ 504352.40N 0032503.42W
+ 
+5 
+504351.35N 0032505.05W
+ 
+6 
+504350.34N 0032506.76W
+RUNWAY/TAXIWAY/APRON PHYSICAL CHARACTERISTICS
+APRON / RWY / TWY 
+SURFACE 
+PCN 
+PCR 
+ELEVATION
+Main Apron 
+Concrete/Asphalt 
+- 
+524/R/B/X/U 
+-
+Apron 21 
+Asphalt 
+- 
+220/F/B/Y/U 
+-
+Apron 22 
+Concrete 
+- 
+271/R/B/X/U 
+-
+Apron 24 
+Asphalt 
+- 
+253/F/B/Y/U 
+-
+South Apron 
+Asphalt 
+- 
+410/R/B/X/U 
+-
+North Apron 
+Asphalt 
+- 
+410/R/B/X/U 
+-
+RWY (All)
+TWY (All)
+COM
+ATIS 
+119.330 
+EXETER INFO
+TWR 
+119.805 
+EXETER TOWER
+ 
+121.605 
+EXETER FIRE
+See AD 2-EGTE-2-1
+AERO INFO DATE 16 DEC 25
+AD 2-EGTE-2-2
+EGTE
+EXETER
+AD ELEV 102FT
+ARP 504403N 0032450W
+AIRCRAFT PARKING/DOCKING
+CHART - ICAO
+CHANGE (3/26): EXETER FIRE FREQUENCY ADDED.
+19 Mar 2026
+AMDT 03/2026
+UNITED KINGDOM AIP
+AD 2.EGTE-5-1
+CIVIL AVIATION AUTHORITY
+17 Apr 2025
+AMDT 04/2025
+INTENTIONALLY BLANK
+UNITED KINGDOM AIP
+AD 2.EGTE-8-1
+CIVIL AVIATION AUTHORITY
+*3
+
+*3
+
+,$)
+1'%/(;
+*/,'(3$7+
+
+
+
+
+&$7&'
+&$7$%
+&$7&'
+&$7$%
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+,(7'
+&K;
+ iet
+1:
+
+&$7&'
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,1
+/+$
+0,1
+/+$
+/+$
+0,1
+,$)
+72032
+'
+72032
+'
+'
+'
+'
+'
+'
+'
+0,''/(0225
+0,''/(0225
+
+
+
+
+&$7$%
+&$7$%
+&$7&'4'0
+&$7&'4'0
+&$7$%4'0
+&$7$%4'0
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+$/7(51$7,9(352&('85()52072032+2/'
+6KXWWOHDVUHTXLUHGLQWKH72032KROGWR([WHQGWKHRXWERXQGOHJRIWKHKROGGHVFHQGLQJWRQRWEHORZ$W,(7'0(&$7$%RU
+,(7'0(&$7&'FRPPHQFHULJKWWXUQWRHVWDEOLVKRQWKHORFDOLVHUWKHQFRQWLQXHDVIRUEDVLFSURFHGXUH
+$,5&5$)781$%/(725(&(,9('0(,(7
+$GYLVH$7&5DGDU5DQJHVZLOOEHSURYLGHGDW10RXWERXQGDQG10RU10RXWERXQGDQGDW10DQG10LQERXQG
+127( /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQDW1'%/(;RUDW72032
+
+ 72032KROGQRWDYDLODEOHZLWKRXW'0(,(7
+&OLPEVWUDLJKWDKHDGWRKROGDW
+1'%/(;DW,IXQDEOHWRDFKLHYH
+E\1'%/(;WXUQULJKWRQWRWUDFN
+DQGFRQWLQXHFOLPEWRWKHQ
+WXUQULJKWWR1'%/(;RUDVGLUHFWHG
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+,/6'0(1'%/
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(2&$2&+&$7$%&90&2&$2&+$$/&$7%
+
+'0(,(7
+
+
+
+
+
+
+
+$/7+*7
+
+
+
+
+
+
+5(&200(1'('352),/(*/,'(3$7+)710
+
+5'+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+&$7,
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+'
+'
+'
+'
+'
+'
+'0(,(7]HURUDQJHGWR7+55:<
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+0$;.,$6IRUSURFHGXUH
+2 Nov 2023
+AMDT 11/2023
+AD 2.EGTE-8-2
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+,$)
+1'%/(;
+
+
+
+
+&$7&'
+&$7$%
+&$7&'
+&$7$%
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+,(7'
+&K;
+ iet
+1:
+
+0,1
+
+&$7&'
+
+10
+&$7$%
+&$7$%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+&$7$%4'0
+&$7$%4'0
+/+$
+0,1
+/+$
+/+$
+0,1
+,$)
+72032
+'
+72032
+'
+'
+'
+'
+'
+'
+'
+'
+'
+0,''/(0225
+0,''/(0225
+
+
+&$7&'4'0
+&$7&'4'0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+$/7(51$7,9(352&('85()52072032+2/'
+6KXWWOHDVUHTXLUHGLQWKH72032KROGWR([WHQGWKHRXWERXQGOHJRIWKHKROGGHVFHQGLQJWRQRWEHORZ$W,(7'0(&$7$%RU
+,(7'0(&$7&'FRPPHQFHULJKWWXUQWRHVWDEOLVKRQWKHORFDOLVHUWKHQFRQWLQXHDVIRUEDVLFSURFHGXUH
+127( /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQDW1'%/(;RUDW72032
+
+ 72032KROGQRWDYDLODEOHZLWKRXW'0(,(7
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+/2&'0(1'%/
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+3URFHGXUH
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+'
+'
+'
+'
+'
+'
+'0(,(7]HURUDQJHGWR7+55:<
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+0$3W,(7'0(
+&OLPEVWUDLJKWDKHDGWRKROGDW1'%/(;DW
+,IXQDEOHWRDFKLHYHE\1'%/(;
+WXUQULJKWRQWRWUDFNDQGFRQWLQXHFOLPEWR
+WKHQWXUQULJKWWR1'%/(;RUDVGLUHFWHG
+3URFHGXUHQRWDYDLODEOH
+ZLWKRXW'0(,(7
+0$;.,$6IRUSURFHGXUH
+
+'0(,(7
+
+
+
+
+
+6')
+
+$/7+*7
+
+
+
+
+
+
+5(&200(1'('352),/(*UDGLHQW)710
+2 Nov 2023
+AMDT 11/2023
+UNITED KINGDOM AIP
+AD 2.EGTE-8-3
+CIVIL AVIATION AUTHORITY
+1'%/(;
+
+
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+/+$
+0,1
+10
+10
+0,''/(0225
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+127( $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQ
+
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+65$57510
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(2&$2&+90&2&$2&+$$/&$7%
+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+3URFHGXUH
+7RWDO$UHD
+90&2&$
+2&+$$/
+,QLWLDODQGLQWHUPHGLDWHDSSURDFKDVGLUHFWHGE\UDGDU
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+10
+10
+10
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+0$3W57510
+&OLPEVWUDLJKWDKHDGWRKROGDW
+1'%/(;DW,IXQDEOHWR
+DFKLHYHE\1'%/(;WXUQ
+ULJKWRQWRWUDFNDQGFRQWLQXH
+FOLPEWRWKHQWXUQULJKWWR
+1'%/(;RUDVGLUHFWHG
+
+10
+
+
+6')
+
+
+$/7+*7
+
+
+
+
+5$'$5$'9,625<+(,*+76*UDGLHQW)710
+0$;.,$6IRUSURFHGXUH
+2 Nov 2023
+AMDT 11/2023
+AD 2.EGTE-8-4
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+400
+400
+1000
+1000
+700
+700
+
+400
+700
+400
+700
+400
+700
+400
+400
+700
+400
+700
+400
+700
+400
+
+
+1'%/(;
+
+
+7(,
+
+7()
+
+5:
+6')/1$9
+21/<
+
+
+
+
+10
+10
+5:
+0$3W
+10
+'
+
+2&1/
+6)&
+/867/(,*+
+'
+
+2&1/
+6)&
+0,''/(0225
+
+
+
+
+27%27
+,$)
+(%2%$
+,$)
+
+0,''/(0225
+/867/(,*+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
+
+2&1/
+6)&
+'
+
+6)&
+'$
+
+2&1/
+6)&
+'&
+
+2&1/
+6)&
+'81.(6:(//
+
+
+/+$
+0,1
+
+
+
+
+
+
+
+
+27%27
+,$)
+
+
+
+6,65,
+,$)
+
+
+
+(%2%$
+,$)
+
+7(,
+,)
+
+7()
+)$)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:,1')$50
+
+
+'
+
+6)&
+
+
+
+7(,
+7$$
+
+7$$
+
+
+
+1
+0
+)
+5
+2
+0
+6
+,6
+5,
+7$$
+
+7$$
+
+
+
+1
+0
+)
+5
+2
+0
+5
+
+
+1
+0
+)
+5
+2
+0
+
+2
+7
+%
+2
+7
+
+
+1
+0
+)
+5
+2
+0
+6
+,6
+5,
+
+
+1
+0
+)
+5
+2
+0
+(
+%
+2
+%
+$
+(%2%$
+7(,
+7(,
+27%27
+6,65,
+7(,
+7$$
+
+7$$
+
+7$$
+
+(;
+ ex
+1:
+:
+1
+1
+:
+:
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+75$16,7,21$/7,78'(
+$(52,1)2'$7($8*
+(;(7(5
+513
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(7$$6,65,27%2702&$90&2&$2&+$$/&$7%
+06$10$53
+0,66('$3352$&+352&('85(
+QRWDYDLODEOHZLWKRXW1'%/(;
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+%($5,1*6$5(0$*1(7,&
+1
+$QQXDO5DWH
+RI&KDQJH(
+0$;.,$6IRU
+3URFHGXUHDQG+ROG
+
+:$<32,176
+(%2%$ 1:
+6,65,
+ 1:
+27%27  1:
+7(,
+ 1:
+7()  1:
+5:
+ 1:
+7+5
+10
+10
+10
+0$3W/1$95:
+&RQWLQXRXVFOLPEWR3DVVLQJUHYHUWWRFRQYHQWLRQDO
+QDYLJDWLRQ,QLWLDOO\VWUDLJKWDKHDGWR1'%/(;WRKROGDW
+$LUFUDIWXQDEOHWRDFKLHYHE\1'%/(;WXUQULJKW
+RQWRWUDFNDQGFRQWLQXHFOLPEWRWKHQWXUQULJKWWR
+1'%/(;RUDVGLUHFWHG
+7&+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+/1$991$9
+/1$9
+7RWDO$UHD
+90&2&$
+2&+$$/
+
+10WR5:
+
+
+
+
+6')
+
+
+$/7+*7
+
+
+
+
+
+
+5(&200(1'('352),/(91$99HUWLFDOSDWK$QJOH/1$9)710
+0,17(03&
+9$5:
+$'(*7(
+513$3&+
+2 Nov 2023
+AMDT 11/2023
+UNITED KINGDOM AIP
+AD 2.EGTE-8-5
+CIVIL AVIATION AUTHORITY
+,$)
+1'%/(;
+
+
+
+
+&$7&'
+&$7$%
+&$7&'
+&$7$%
+
+
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+,(7'
+&K;
+ iet
+1:
+
+0,1
+
+
+10
+&$7&'
+&$7$%
+&$7$%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+
+
+&$7$%4'0
+&$7$%4'0
+/+$
+0,1
+/+$
+0,1
+,$)
+72032
+'
+72032
+'
+'
+'
+'
+'
+'
+'
+'
+'
+'
+0,''/(0225
+0,''/(0225
+
+
+&$7&'4'0
+&$7&'4'0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+$/7(51$7,9(352&('85()52072032+2/'
+6KXWWOHDVUHTXLUHGLQWKH72032KROGWR([WHQGWKHRXWERXQGOHJRIWKHKROGGHVFHQGLQJWRQRWEHORZ$W,(7'0(&$7$%RU
+,(7'0(&$7&'FRPPHQFHULJKWWXUQWRHVWDEOLVKRQWKH)$7WKHQFRQWLQXHDVIRUEDVLFSURFHGXUH
+127( /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQDW1'%/(;RUDW72032
+
+ 72032KROGQRWDYDLODEOHZLWKRXW'0(,(7
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+1'%/'0(
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+3URFHGXUH
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+'
+'
+'
+'
+'
+'
+'0(,(7]HURUDQJHGWR7+55:<
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+0$3W,(7'0(
+&OLPEVWUDLJKWDKHDGWRKROGDW1'%/(;DW
+,IXQDEOHWRDFKLHYHE\1'%/(;
+WXUQULJKWRQWRWUDFNDQGFRQWLQXHFOLPEWR
+WKHQWXUQULJKWWR1'%/(;RUDVGLUHFWHG
+3URFHGXUHQRWDYDLODEOH
+ZLWKRXW'0(,(7
+
+'0(,(7
+
+
+
+6')
+6')
+
+$/7+*7
+
+
+
+
+
+5(&200(1'('352),/(*UDGLHQW)710
+0$;.,$6IRUSURFHGXUH
+2 Nov 2023
+AMDT 11/2023
+AD 2.EGTE-8-6
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+,(
+7'
+
+DUF
+,(
+7'
+D
+UF
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+'
+0,''/(0225
+0,''/(0225
+
+
+4'0
+4'0
+4'0
+4'0
+4'0
+%+'5
+%+'5
+4'0
+4'0
+,(7'
+,(7'
+,(7'
+%+''
+06$
+%+'
+'
+,(7'
+06$
+,(7'
+06$
+,(7'
+&K;
+ iet
+1:
+
+%(55<+($'
+%+''
+&K<
+ bhd
+1:
+
+,(7'
+06$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,(7
+'
+,(7
+'
+1
+1
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+',5(&7$55,9$/6)520%+'925'0(
+6XEMHFWWRSULRUDSSURYDOIURP$7&:KHQFOHDURI&RQWUROOHG$LUVSDFHIURPRYHUKHDG%+'925'0(,$)QRWEHORZ06$IO\RXWERXQGRQ
+%+'5$W%+''0(1'%/(;4'0GHVFHQGWRQRWEHORZ$WOHDG4'01'%/(;%+''0(FRPPHQFHULJKW
+WXUQWRHVWDEOLVKRQ/2&)$7:KHQHVWDEOLVKHGFRQWLQXHDVIRUEDVLFSURFHGXUH
+',5(&7$55,9$/6)520:(67
+6XEMHFWWRSULRUDSSURYDOIURP$7&(VWDEOLVKRQWKHH[WHQGHG)$7/2&QRWEHORZ06$$W,$)4'01'%/(;RU/2&,(7'0(FRPPHQFH
+GHVFHQWWRQRWEHORZDQGFRQWLQXHDVIRUEDVLFSURFHGXUH
+',5(&7$55,9$/6)5206287+:(679,$,(7'0($5&
+6XEMHFWWRSULRUDSSURYDOIURP$7&7UDFNWRZDUGV1'%/(;EHWZHHQ1'%/(;4'0DQGQRWEHORZ06$$W,(7'0(WXUQOHIWWR
+HVWDEOLVKDQGIROORZWKH,(7'0(DUFFORFNZLVH$IWHUSDVVLQJ4'01'%/(;GHVFHQGWRQRWEHORZ$WOHDG
+4'01'%/(;%+''0(FRPPHQFHULJKWWXUQWRHVWDEOLVKRQ/2&)$7:KHQHVWDEOLVKHGFRQWLQXHDVIRUEDVLFSURFHGXUH
+',5(&7$55,9$/6)5201257+:(679,$,(7'0($5&
+6XEMHFWWRSULRUDSSURYDOIURP$7&7UDFNWRZDUGV1'%/(;EHWZHHQ1'%/(;4'0DQGQRWEHORZ06$$W,$),(7'0(WXUQ
+ULJKWWRHVWDEOLVKDQGIROORZWKH,(7'0(DUFDQWLFORFNZLVH$IWHUSDVVLQJ4'01'%/(;GHVFHQGWRQRWEHORZ$WOHDG
+4'01'%/(;FRPPHQFHOHIWWXUQWRHVWDEOLVKRQ/2&)$7:KHQHVWDEOLVKHGFRQWLQXHDVIRUEDVLFSURFHGXUH
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+'LUHFW$UULYDOV
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(6')+(,*+7
+
+
+
+
+06$101'%/(;
+
+
+
+
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+',5(&7$55,9$/
+9,$6287+:(67
+06$
+',5(&7$55,9$/
+9,$6287+:(67
+06$
+',5(&7$55,9$/
+9,$925%+'
+',5(&7$55,9$/
+9,$925%+'
+',5(&7$55,9$/
+9,$6287+:(67
+06$
+',5(&7$55,9$/
+9,$1257+:(67
+06$
+',5(&7$55,9$/
+9,$1257+:(67
+06$
+2 Nov 2023
+AMDT 11/2023
+UNITED KINGDOM AIP
+AD 2.EGTE-8-7
+CIVIL AVIATION AUTHORITY
+*3
+
+*3
+
+*3
+
+,$)
+1'%/(;
+*/,'(3$7+
+
+
+
+
+&$7&'
+&$7$%
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+
+
+
+
+/+$
+0,1
+,$)
+'
+'
+'
+'
+0,''/(0225
+0,''/(0225
+
+
+,;5'
+&K;
+ ixr
+1:
+
+&$7$%
+&$7$%
+
+&$7&'
+&$7&'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+$,5&5$)781$%/(725(&(,9('0(,;5
+)O\RXWERXQGIRU0,1&$7$%RU0,1&$7&'SULRUWRFRPPHQFLQJEDVHWXUQ5DGDU5DQJHVZLOOEHSURYLGHGDW10DQG10LQERXQG
+127( /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQ
+
+ 4XDOLW\RIWKHJXLGDQFHGRHVQRWSHUPLWXVHRIWKHJOLGHSDWKEHORZ
+
+ *OLGHSDWKLVQRWWREHXVHGEH\RQG10IURPWKH7+5
+
+ /2&UDQJHLVUHVWULFWHGWR10ZLWKLQDQG10ZLWKLQRI&/
+&OLPEVWUDLJKWDKHDGWRRU
+,;5'0(ZKLFKHYHULVODWHU
+WKHQFOLPELQJWXUQULJKWWR
+1'%/(;DWRUDVGLUHFWHG
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+,/6'0(1'%/
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+
+5'+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+&$7,
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+'
+'
+'
+'
+'0(,;5]HURUDQJHGWR7+55:<
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+
+'0(,;5
+
+
+
+
+
+
+$/7+*7
+
+
+
+
+
+5(&200(1'('352),/(*/,'(3$7+)710
+0$;.,$6IRUSURFHGXUH
+2 Nov 2023
+AMDT 11/2023
+AD 2.EGTE-8-8
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+,$)
+1'%/(;
+
+
+
+
+&$7&'
+&$7$%
+
+
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+
+
+/+$
+0,1
+,$)
+'
+'
+'
+'
+'
+'
+'
+0,''/(0225
+0,''/(0225
+
+
+,;5'
+&K;
+ ixr
+1:
+
+&$7$%
+&$7$%
+
+&$7&'
+&$7&'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+127( /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQ
+
+ /2&UDQJHLVUHVWULFWHGWR10ZLWKLQDQG10ZLWKLQRI&/
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+/2&'0(1'%/
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+3URFHGXUH
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+'
+'
+'
+'
+'
+'
+'0(,;5]HURUDQJHGWR7+55:<
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+
+'0(,;5
+
+(;1'%/
+
+6')
+
+$/7+*7
+
+
+
+
+5(&200(1'('352),/(*UDGLHQW)710
+0$3W,;5'0(
+
+10DIWHU1'%/(;
+&OLPEVWUDLJKWDKHDGWR
+RU,;5'0(ZKLFKHYHULVODWHU
+WKHQFOLPELQJWXUQULJKWWR
+1'%/(;DWRUDVGLUHFWHG
+1'%/WR
+0$3W
+10
+ 0,16(&
+
+
+
+
+
+3URFHGXUHQRWDYDLODEOH
+ZLWKRXWUDGDURU'0(
+0$;.,$6IRUSURFHGXUH
+2 Nov 2023
+AMDT 11/2023
+UNITED KINGDOM AIP
+AD 2.EGTE-8-9
+CIVIL AVIATION AUTHORITY
+1'%/(;
+
+
+
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+/+$
+0,1
+10
+10
+10
+0,''/(0225
+0,''/(0225
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+127( $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQ
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+65$57510
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+7+5
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+3URFHGXUH
+7RWDO$UHD
+90&2&$
+2&+$$/
+,QLWLDODQGLQWHUPHGLDWHDSSURDFKDVGLUHFWHGE\UDGDU
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+10
+10
+10
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+0$3W57510
+&OLPEVWUDLJKWDKHDGWR
+RU,;5'0(ZKLFKHYHULV
+ODWHUWKHQFOLPELQJWXUQULJKW
+WR1'%/(;DWRUDV
+GLUHFWHG
+
+10
+
+
+6')
+
+$/7+*7
+
+
+
+5$'$5$'9,625<+(,*+76*UDGLHQW)710
+2 Nov 2023
+AMDT 11/2023
+AD 2.EGTE-8-10
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+400
+700
+400
+700
+400
+700
+400
+700
+400
+400
+400
+700
+400
+700
+400
+700
+400
+700
+400
+400
+5:
+7(,
+
+7()
+
+7(0
+
+
+1'%/(;
+
+
+
+6')/1$9
+21/<
+
+7(0
+7(0
+
+10
+1(;$1
+,$)
+1(;$1
+,$)
+/(76,
+,$)
+7(,
+,)
+%$768
+,$)
+%$768
+,$)
+5:
+0$3W
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+<(29,/721$,$$
+
+6)&
+0,''/(0225
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
+
+2&1/
+6)&
+'
+
+6)&
+'
+
+6)&
+'81.(6:(//
+7()
+)$)
+7()
+)$)
+7()
+)$)
+7()
+)$)
+
+
+/+$
+0,1
+
+
+
+
+
+
+
+
+
+7$$
+
+7$$
+
+1(;$1
+/(76,
+7(,
+7(,
+
+
+1
+0
+)
+5
+2
+0
+/
+(
+7
+6
+,
+
+
+1
+0
+)
+5
+2
+0
+
+1
+(
+;
+$
+1
+
+
+
+1
+0
+)
+5
+2
+0
+%
+$
+7
+6
+8
+(;
+ ex
+1:
+7(,
+7$$
+
+%$768
+1
+1
+1
+:
+:
+:
+:
+:
+:
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+10
+10
+10
+7+5
+$(52,1)2'$7($8*
+(;(7(5
+513
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%7(,02&$+(,*+7,1&5($6(21352),/(
+06$10$53
+:$<32,176
+1(;$1  1:
+/(76,
+ 1:
+%$768  1:
+7(,
+ 1:
+7()  1:
+5:
+ 1:
+7(0  1:
+0$3W/1$95:
+&OLPEWR,QLWLDOO\WRZDUGV
+7(0$W7(0UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQDQG
+WXUQULJKWWR1'%/(;DQG
+FRQWLQXHFOLPEWRRUDV
+GLUHFWHG
+127(  &OHDUDQFHIRU,QLWLDO$SSURDFKYLD%$768VXEMHFWWR'DQJHU$UHDDFWLYLW\
+0,66('$3352$&+352&('85(
+QRWDYDLODEOHZLWKRXW1'%/(;
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+%($5,1*6$5(0$*1(7,&
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+9$5:
+0$;.,$6IRUSURFHGXUH
+
+5(&200(1'('352),/(91$99HUWLFDOSDWK$QJOH/1$9)710
+
+10WR5:
+
+
+
+6')
+
+
+
+$/7+*7
+
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+$LUFUDIW&DWHJRU\
+/1$991$9
+/1$9
+7RWDO$UHD
+90&2&$
+2&+$$/
+75$16,7,21$/7,78'(
+0,17(03&
+7&+
+2&$
+2&+
+$'(*7(
+513$3&+
+2 Nov 2023
+AMDT 11/2023
+UNITED KINGDOM AIP
+AD 2.EGTE-8-11
+CIVIL AVIATION AUTHORITY
+,$)
+1'%/(;
+
+
+
+
+&$7&'
+&$7$%
+
+
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+
+
+/+$
+0,1
+,$)
+'
+'
+'
+'
+'
+'
+'
+'
+0,''/(0225
+0,''/(0225
+
+
+,;5'
+&K;
+ ixr
+1:
+
+&$7$%
+&$7$%
+
+&$7&'
+&$7&'
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+$,5&5$)781$%/(725(&(,9('0(,;5
+6HH$'(*7(
+127( )$7RIIVHWIURP5:<&/
+
+ /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQ
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+1'%/'0(
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+:,7+'0(
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+'
+'
+'
+'
+'
+'
+'0(,;5]HURUDQJHGWR7+55:<
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+
+'0(,;5
+
+
+
+6')
+
+$/7+*7
+
+
+
+
+5(&200(1'('352),/(*UDGLHQW)710
+1'%/WR
+0$3W
+10
+ 0,16(&
+
+
+
+
+
+3URFHGXUHQRWDYDLODEOH
+ZLWKRXW'0(,;5
+0$;.,$6IRUSURFHGXUH
+0$3W,;5'0(
+&OLPEVWUDLJKWDKHDGWR
+RU,;5'0(ZKLFKHYHULV
+ODWHUWKHQFOLPELQJWXUQULJKW
+WR1'%/(;DWRUDV
+GLUHFWHG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Nov 2023
+AMDT 11/2023
+AD 2.EGTE-8-12
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+,$)
+1'%/(;
+
+
+
+
+&$7&'
+&$7$%
+
+
+
+400
+400
+400
+400
+400
+400
+400
+400
+700
+700
+700
+700
+700
+700
+400
+400
+1000
+1000
+700
+700
+'81.(6:(//
+'
+
+6)&
+'
+
+6)&
+'
+
+2&1/
+6)&
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(;
+ ex
+1:
+
+
+
+
+
+
+
+
+/+$
+0,1
+,$))$)
+0,''/(0225
+0,''/(0225
+
+
+&$7$%
+&$7$%
+
+&$7&'
+&$7&'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+:
+:
+:
+:
+:
+:
+75$16,7,21$/7,78'(
+
+127( )$7RIIVHWIURP5:<&/
+
+ /RZHVWDOWLWXGHWRFRPPHQFHSURFHGXUHIURPKROGDIWHUDPLVVHGDSSURDFKLV
+
+ $7&ZLOOQRUPDOO\UHTXLUHDLUFUDIWWRKROGQRWORZHUWKDQ
+$(52,1)2'$7($8*
+$'(*7(
+(;(7(5
+1'%/
+5:<
+$&)7&$7$%&'
+,167580(17$3352$&+&+$57,&$2
+&+$1*(90&2&$2&+$$/&$7%
+
+
+
+
+06$101'%/(;
+
+
+
+
+
+$
+%
+&
+'
+ 
+
+
+
+ 
+
+
+
+2&$
+2&+
+$LUFUDIW&DWHJRU\
+12'0(
+7RWDO$UHD
+90&2&$
+2&+$$/
+$UULYDOQRWEHORZ06$6KXWWOHLQKROGLIQHFHVVDU\WR
+1
+$QQXDO5DWH
+RI&KDQJH(
+9$5:
+$33
+
+(;(7(5$3352$&+
+7:5
+
+(;(7(572:(5
+5$'
+
+(;(7(55$'$5
+$7,6
+
+(;(7(5,1)250$7,21
+$'(/(9$7,21
+
+7+5(/(9$7,21
+
+%($5,1*6$5(0$*1(7,&
+2%67$&/((/(9$7,21
+
+
+$06/
+$%29(7+5
+5DWHRI
+GHVFHQW
+
+*6.7
+
+
+
+
+
+
+)70,1
+
+
+
+
+
+0$3W10DIWHU1'%/(;
+&OLPEVWUDLJKWDKHDGWRWKHQ
+FOLPELQJWXUQULJKWWR1'%/(;
+DWRUDVGLUHFWHG
+1'%/WR
+0$3W
+10
+ 0,16(&
+
+
+
+
+
+0$;.,$6IRUSURFHGXUH
+28%'7,0,1*
+&$7$%0,1
+&$7&'0,1
+2 Nov 2023
+AMDT 11/2023
+UNITED KINGDOM AIP
+AD 2.EGTE-8-13
+CIVIL AVIATION AUTHORITY
+1
+:
+1
+:
+1
+:
+1
+:
+
+55
+55
+55
+55
+55
+
+
+
+
+
+,)
+7)
+7)
+7)
+&$
+27%27
+7(,
+7()
+5:
+
+1
+1
+1
+<
+
+,$)
+,)10
+)$)10
+0$3W
+$W¶UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQ
+
+
+
+
+
+
+
+
+
+
+5,*+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+:
+1
+:
+1
+:
+1
+:
+
+5&
+5&
+5&
+5&
+5&
+
+
+
+
+
+,)
+7)
+7)
+7)
+&$
+(%2%$
+7(,
+7()
+5:
+
+1
+1
+1
+<
+
+,$)
+,)10
+)$)10
+0$3W
+$W¶UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+:
+1
+:
+1
+:
+1
+:
+
+5/
+5/
+5/
+5/
+5/
+
+
+
+
+
+,)
+7)
+7)
+7)
+&$
+6,65,
+7(,
+7()
+5:
+
+1
+1
+1
+<
+
+,$)
+,)10
+)$)10
+0$3W
+$W¶UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQ
+
+
+
+
+
+
+
+
+
+
+/()7
+
+
+
+
+
+
+
+
+
+
+
+
+
+&+$1*(0$*9$50$*75$&.6
+$'(*7(
+$(52,1)2'$7($35
+'HVLJQDWRU 6HTXHQFH
+1XPEHU
+3DWK
+7HUP
+LQDWRU
+:D\SRLQW
+1DPH
+)O\
+RYHU
+&RXUVH
+7UDFN
+07
+7XUQ
+'LUHFWLRQ
+/HYHO
+&RQVWUDLQW
+6SHHG
+&RQVWUDLQW
+&RRUGLQDWHV
+5HPDUNVDQG
+'LVWDQFHWR0$3W
+'HVLJQDWRU 6HTXHQFH
+1XPEHU
+3DWK
+7HUP
+LQDWRU
+:D\SRLQW
+1DPH
+)O\
+RYHU
+&RXUVH
+7UDFN
+07
+7XUQ
+'LUHFWLRQ
+/HYHO
+&RQVWUDLQW
+6SHHG
+&RQVWUDLQW
+&RRUGLQDWHV
+5HPDUNVDQG
+'LVWDQFHWR0$3W
+'HVLJQDWRU 6HTXHQFH
+1XPEHU
+3DWK
+7HUP
+LQDWRU
+:D\SRLQW
+1DPH
+)O\
+RYHU
+&RXUVH
+7UDFN
+07
+7XUQ
+'LUHFWLRQ
+/HYHO
+&RQVWUDLQW
+6SHHG
+&RQVWUDLQW
+&RRUGLQDWHV
+5HPDUNVDQG
+'LVWDQFHWR0$3W
+,QVWUXPHQW$SSURDFK3URFHGXUH&RGLQJ7DEOHV
+([HWHU5135:<,QVWUXPHQW$SSURDFK3URFHGXUHYLD27%27
+([HWHU5135:<,QVWUXPHQW$SSURDFK3URFHGXUHYLD(%2%$
+([HWHU5135:<,QVWUXPHQW$SSURDFK3URFHGXUHYLD6,65,
+15 Jul 2021
+AIRAC AMDT 07/2021
+AD 2.EGTE-8-14
+UNITED KINGDOM AIP
+CIVIL AVIATION AUTHORITY
+1
+:
+1
+:
+1
+:
+1
+:
+1
+:
+5/
+5/
+5/
+5/
+5/
+
+
+
+
+
+,)
+7)
+7)
+7)
+7)
+%$768
+7(,
+7()
+5:
+7(0
+1
+1
+1
+<
+<
+,$)
+,)10
+)$)10
+0$3W
+$W7(0UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQ
+
+
+
+
+
+
+
+
+
+
+/()7
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+:
+1
+:
+1
+:
+1
+:
+1
+:
+5&
+5&
+5&
+5&
+5&
+
+
+
+
+
+,)
+7)
+7)
+7)
+7)
+1(;$1
+7(,
+7()
+5:
+7(0
+1
+1
+1
+<
+<
+,$)
+,)10
+)$)10
+0$3W
+$W7(0UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+:
+1
+:
+1
+:
+1
+:
+1
+:
+55
+55
+55
+55
+55
+
+
+
+
+
+,)
+7)
+7)
+7)
+7)
+/(76,
+7(,
+7()
+5:
+7(0
+1
+1
+1
+<
+<
+,$)
+,)10
+)$)10
+0$3W
+$W7(0UHYHUWWR
+FRQYHQWLRQDOQDYLJDWLRQ
+
+
+
+
+
+
+
+
+
+
+5,*+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+([HWHU5135:<,QVWUXPHQW$SSURDFK3URFHGXUHYLD%$768
+([HWHU5135:<,QVWUXPHQW$SSURDFK3URFHGXUHYLD1(;$1
+([HWHU5135:<,QVWUXPHQW$SSURDFK3URFHGXUHYLD/(76,
+,QVWUXPHQW$SSURDFK3URFHGXUH&RGLQJ7DEOHV
+'HVLJQDWRU 6HTXHQFH
+1XPEHU
+3DWK
+7HUP
+LQDWRU
+:D\SRLQW
+1DPH
+)O\
+RYHU
+&RXUVH
+7UDFN
+07
+7XUQ
+'LUHFWLRQ
+/HYHO
+&RQVWUDLQW
+6SHHG
+&RQVWUDLQW
+&RRUGLQDWHV
+5HPDUNVDQG
+'LVWDQFHWR0$3W
+'HVLJQDWRU 6HTXHQFH
+1XPEHU
+3DWK
+7HUP
+LQDWRU
+:D\SRLQW
+1DPH
+)O\
+RYHU
+&RXUVH
+7UDFN
+07
+7XUQ
+'LUHFWLRQ
+/HYHO
+&RQVWUDLQW
+6SHHG
+&RQVWUDLQW
+&RRUGLQDWHV
+5HPDUNVDQG
+'LVWDQFHWR0$3W
+'HVLJQDWRU 6HTXHQFH
+1XPEHU
+3DWK
+7HUP
+LQDWRU
+:D\SRLQW
+1DPH
+)O\
+RYHU
+&RXUVH
+7UDFN
+07
+7XUQ
+'LUHFWLRQ
+/HYHO
+&RQVWUDLQW
+6SHHG
+&RQVWUDLQW
+&RRUGLQDWHV
+5HPDUNVDQG
+'LVWDQFHWR0$3W
+&+$1*(7(,/(9(/&21675$,17
+$'(*7(
+$(52,1)2'$7($8*
+2 Nov 2023
+AMDT 11/2023
+
